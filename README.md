@@ -26,17 +26,17 @@ one is referenced in the notebook.
 
 ## Acknowledgements
 
-Project Co-authors: [[Chien-Yu Huang](<https://www.linkedin.com/in/chienyu-huang/>),
-[[Sameer Sainani](<https://www.linkedin.com/in/sameersainani/>)
+Project Co-authors: [Chien-Yu Huang](<https://www.linkedin.com/in/chienyu-huang/>),
+[Sameer Sainani](<https://www.linkedin.com/in/sameersainani/>)
 
 Dataset authors:
 
 - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and
 Rajiv Ramnath.
-[[“A Countrywide Traffic Accident Dataset.”, 2019.](<https://arxiv.org/abs/1906.05409>)]
+[“A Countrywide Traffic Accident Dataset.”, 2019.](<https://arxiv.org/abs/1906.05409>)
 
 - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy,
 Radu Teodorescu, and Rajiv Ramnath.
-[["Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights."](<https://arxiv.org/abs/1909.09638>)]
+["Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights."](<https://arxiv.org/abs/1909.09638>)
 In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances
 in Geographic Information Systems, ACM, 2019.
